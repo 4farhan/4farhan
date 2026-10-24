@@ -5,8 +5,7 @@
 # Farhan Naeem
 
 Second-year CS @ McMaster University  
-VP of Tech & Operations @ McMaster Start Coding  
-Hackathon projects: Ploutos (Hack Canada 2026) · Sweepify (Hack404)  
+VP of MMA @ McMaster Start Coding  
 Looking for research opportunities in CS
 
 I'm driven by the chance to turn ideas into software that people can use. I want to keep learning across computer science, contribute to meaningful research, and build tools that solve concrete problems.
